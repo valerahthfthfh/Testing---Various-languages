@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\aeroflot.cpp">
+    <ClCompile Include="ДЗ - документация к коду.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>

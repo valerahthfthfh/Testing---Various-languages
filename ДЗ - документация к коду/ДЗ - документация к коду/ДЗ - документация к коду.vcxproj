@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{f529fd6a-a108-4efd-9bfa-30db598b8315}</ProjectGuid>
-    <RootNamespace>ДЗ1Документацияккоду</RootNamespace>
+    <ProjectGuid>{35c52cab-2e57-48ea-b818-40ad829740dc}</ProjectGuid>
+    <RootNamespace>ДЗдокументацияккоду</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\aeroflot.cpp" />
+    <ClCompile Include="ДЗ - документация к коду.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
