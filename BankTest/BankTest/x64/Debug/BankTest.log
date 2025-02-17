@@ -1,0 +1,9 @@
+﻿  TestBankAccount.cpp
+C:\Users\user\Desktop\Testing---Various-languages\BankTest\BankTest\TestBankAccount.cpp(52,1): error C2011: BankAccountTest_Overdraw_Test: переопределение типа "class"
+      C:\Users\user\Desktop\Testing---Various-languages\BankTest\BankTest\TestBankAccount.cpp(31,1):
+       см. объявление "BankAccountTest_Overdraw_Test"
+  
+C:\Users\user\Desktop\Testing---Various-languages\BankTest\BankTest\TestBankAccount.cpp(52,1): error C2027: использование неопределенного типа "BankAccountTest_Overdraw_Test"
+      C:\Users\user\Desktop\Testing---Various-languages\BankTest\BankTest\TestBankAccount.cpp(31,1):
+       см. объявление "BankAccountTest_Overdraw_Test"
+  
